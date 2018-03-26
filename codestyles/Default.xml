@@ -1,0 +1,9 @@
+<code_scheme name="Default" version="173">
+  <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+  <Python>
+    <option name="NEW_LINE_AFTER_COLON_MULTI_CLAUSE" value="false" />
+  </Python>
+  <codeStyleSettings language="Python">
+    <option name="RIGHT_MARGIN" value="79" />
+  </codeStyleSettings>
+</code_scheme>
