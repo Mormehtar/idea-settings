@@ -6,6 +6,7 @@
       <mapping pattern="credentials" type="PLAIN_TEXT" />
       <mapping pattern="env" type="PLAIN_TEXT" />
       <mapping pattern="attempts_with_order_and_order_in_lesson" type="PLAIN_TEXT" />
+      <mapping pattern="results_clessonattempt.sql" type="PLAIN_TEXT" />
       <mapping pattern=".flake8" type="PLAIN_TEXT" />
       <mapping pattern="session" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
